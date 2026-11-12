@@ -1,4 +1,4 @@
-# Лабораторна робота №9 — контейнеризація Flask-застосунку (ЛР №8)
+# Лабораторна робота №9 — контейнеризація Flask-застосунку 
 
 Застосунок: сесії в пам'яті, вхід/вихід, CSRF, `login_required`, SQLite (студенти/дисципліни/оцінки).
 Структура: `app.py`, `auth.py`, `init_db.py`, `templates/` (`login.html`, `_auth_nav.html`), `Dockerfile`, `requirements.txt`.
